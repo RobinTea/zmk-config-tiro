@@ -19,7 +19,7 @@
 #
 ---
 include:
-  - board: nice_nano #wtf
+  - board: nice_nano_v2 #wtf
     shield: tironia
-  - board: nice_nano
+  - board: nice_nano_v2
     shield: settings_reset
